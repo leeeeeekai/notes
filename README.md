@@ -1,4 +1,4 @@
 # notes
 Just personal notes for my own convenience.
 
-- mysql index optimization [Click to view](DatabaseOptimization.md) 
+- mysql indexes optimization [Click to view](IndexesOptimization.md) 
