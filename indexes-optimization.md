@@ -1,6 +1,6 @@
 # 索引优化（mysql indexes optimization）
 
-## 规则如下：
+## 优化规则
 
 - like 语句的前导模糊查询不能使用索引。
 - union、in、or 都能够命中索引，建议使用 in。
