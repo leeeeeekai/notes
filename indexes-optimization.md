@@ -1,4 +1,4 @@
-# mysql indexes optimization notes
+# 索引优化（mysql indexes optimization）
 
 ## 规则如下：
 
